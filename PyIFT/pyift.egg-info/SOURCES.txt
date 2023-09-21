@@ -1,0 +1,11 @@
+LICENSE.txt
+README.txt
+setup.cfg
+setup.py
+pyift/__init__.py
+pyift/pyift.i
+pyift/pyift.py
+pyift.egg-info/PKG-INFO
+pyift.egg-info/SOURCES.txt
+pyift.egg-info/dependency_links.txt
+pyift.egg-info/top_level.txt

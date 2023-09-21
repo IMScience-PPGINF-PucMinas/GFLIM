@@ -1,0 +1,24 @@
+Preparing your environment:
+
+You must use Python 3.
+The easiest way is to use a virtual env created with python 3, so that the
+command python will be python3 by default, and all packages will be installed
+into your environment.
+
+0) Creating the virtual env with python 3:
+# On your home diretory:
+# myenv is the name of your environment
+$ virtualenv -p python3 myenv
+
+1) Install PyIFT
+$ chmod +x install-pyift.sh
+$ ./install-pyift.sh
+
+2) To import the PyIFT package:
+> import pyift.pyift as ift
+
+* remove from site-packages in your enviroment *pyift* to guarantee that the above commands will work
+
+
+* run bash dist-pyift.sh para gerar o whl a ser instalado com pip install dist/<arquivo.whl>
+

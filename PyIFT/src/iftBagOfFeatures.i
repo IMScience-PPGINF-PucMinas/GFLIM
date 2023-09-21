@@ -1,0 +1,10 @@
+%include "iftDataSet.i"
+%include "iftKmeans.i"
+%include "iftMImage.i"
+%include "iftMetrics.i"
+%include "iftGenericVector.i"
+%include "iftGenericMatrix.i"
+%include "iftGenericVectorUtil.i"
+%include "iftGenericMatrixUtil.i"
+%include "iftClassification.i"
+

@@ -1,0 +1,40 @@
+img[alt=imgplot] {
+    width: 200px;
+    height: 200px;
+    float: none;
+}
+
+img[alt=leaf] {
+    width: 150px;
+    height: 150px;
+}
+
+img[alt=skel_leaf] {
+    width: 150px;
+    height: 150px;
+}
+    
+img[alt=neuron] {
+    width: 150px;
+    height: 150px;
+}
+
+img[alt=neuron_medial_axis] {
+    width: 150px;
+    height: 150px;
+}
+
+img[alt=new_neuron] {
+    width: 150px;
+    height: 150px;
+}
+
+img[alt=parasite] {
+    width: 200px;
+    height: 200px;
+}
+
+img[alt=parasite_label] {
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,2 @@
+%include "iftImage.i"
+
