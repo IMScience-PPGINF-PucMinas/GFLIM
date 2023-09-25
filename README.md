@@ -33,9 +33,9 @@ If this work was useful for your research, please cite our paper:
 @InProceedings{barcelos2023graph,
   title={Graph-based feature learning from image markers},
   author={Barcelos, Isabela Borlido and Jo{\~a}o, Leonardo de Melo and do Patroc{\'\i}nio Jr, Zenilton K. G. and Ewa Kijak and Falc{\~a}o, Alexandre Xavier and Guimar{\~a}es, Silvio Jamil F.},
-	booktitle="26th Iberoamerican Congress on Pattern Recognition (CIARP)",
-	year="2023",
-	publisher="Springer International Publishing",
-	address="Cham",
+  booktitle="26th Iberoamerican Congress on Pattern Recognition (CIARP)",
+  year="2023",
+  publisher="Springer International Publishing",
+  address="Cham",
 }
 ```
